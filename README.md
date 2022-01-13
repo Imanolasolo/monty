@@ -14,9 +14,9 @@ Thank you for visiting this repository which contain my work as C language progr
 * [MIT License](./LICENSE)
 * [About](#about)
 * [Dependences](#dependences)
-* [Installing, compiling and using](#installing, compiling and using)
+* [Installing](#installing)
 * [Builtins](#builtins)
-* [Man page]
+* [Man page](#man)
 * [Credits](#credits)
 
 ## About

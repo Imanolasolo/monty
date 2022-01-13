@@ -39,33 +39,33 @@ What is the proper way to use global variables
 	
 ## Dependences 
 	
-> [monty.h](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x18-dynamic_libraries/main.h) --> Header file containingall functions involved in project.
+> [monty.h](https://github.com/Imanolasolo/monty/blob/master/monty.h) --> Header file containingall functions involved in project.
 
-> [README.md](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x18-dynamic_libraries/README.md) ---> README file to show the project insights. 
+> [README.md](https://github.com/Imanolasolo/monty/blob/master/README.md) ---> README file to show the project insights. 
 
->[errors_A.c](https://github.com/Imanolasolo/holbertonschool-low_level_programming/blob/main/0x18-dynamic_libraries/libdynamic.so) ---> Print different errors
+>[errors_A.c](https://github.com/Imanolasolo/monty/blob/master/errors_A.c) ---> Print different errors
 
->[errors_B.c](https://github.com/Imanolasolo/holbertonschool-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py) ---> Print different errors.
+>[errors_B.c](https://github.com/Imanolasolo/monty/blob/master/errors_B.c) ---> Print different errors.
 
->[int_2_string.c]() ---> Operations with integers and strings in buffer
+>[int_2_string.c](https://github.com/Imanolasolo/monty/blob/master/int_2_string.c) ---> Operations with integers and strings in buffer
 
->[m_funcs1-c]() ---> Push, pall, pint, pop and swap functions
+>[m_funcs1-c](https://github.com/Imanolasolo/monty/blob/master/m_funcs1.c) ---> Push, pall, pint, pop and swap functions
 
->[m_funcs2.c]() ---> Add, sub, div, mul and mod functions
+>[m_funcs2.c](https://github.com/Imanolasolo/monty/blob/master/m_funcs2.c) ---> Add, sub, div, mul and mod functions
 
->[m_funcs3.c]() ---> Nop, pchar and pstr functions
+>[m_funcs3.c](https://github.com/Imanolasolo/monty/blob/master/m_funcs3.c) ---> Nop, pchar and pstr functions
 
->[m_funcs4.c]() ---> Rotl, rotr, stack and queue functions
+>[m_funcs4.c](https://github.com/Imanolasolo/monty/blob/master/m_funcs4.c) ---> Rotl, rotr, stack and queue functions
 
->[main.c]() ---> Main funcyion to execute the program
+>[main.c](https://github.com/Imanolasolo/monty/blob/master/main.c) ---> Main funcyion to execute the program
 
->[run_monty.c]() ---> Primary function to execute a Monty bytecodes script.
+>[run_monty.c](https://github.com/Imanolasolo/monty/blob/master/run_monty.c) ---> Primary function to execute a Monty bytecodes script.
 
->[set_op-token_error.c]() ---> Sets last element of op_toks to be an error code
+>[set_op-token_error.c](https://github.com/Imanolasolo/monty/blob/master/set_op_token_error.c) ---> Sets last element of op_toks to be an error code
 
->[stack.c]() ---> Functions for stack operations
+>[stack.c](https://github.com/Imanolasolo/monty/blob/master/stack.c) ---> Functions for stack operations
 
->[string_tokenizer.c] ---> Tokenizing functions.
+>[string_tokenizer.c](https://github.com/Imanolasolo/monty/blob/master/string_tokenizer.c) ---> Tokenizing functions.
 
 
 ## Installing, compiling and using
@@ -130,9 +130,8 @@ int pchar_error(unsigned int line_number, char *message);
 
 **Read or watch**:
 
-[What is difference between Dynamic and Static library (Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM])
-[Create dynamic libraries on Linux](https://www.google.com/#q=linux+create+dynamic+library)
-[Technical Writing](https://students-support.hbtn.io/hc/en-us/articles/360023750254)
+[Google](https://intranet.hbtn.io/rltoken/56-bDz7IrFgcH02EkGkB3w)
+[How do I use extern to share variables between source files in C?](https://intranet.hbtn.io/rltoken/9neX6gaN6DoA-ow1INgZqw)
 
 
 ## Usage

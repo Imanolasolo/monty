@@ -5,7 +5,7 @@
 Thank you for visiting this repository which contain my work as C language programming developer. 	
 
 
-![Logo](https://www.howtogeek.com/wp-content/uploads/2021/05/laptop-with-terminal-big.png?height=200p&trim=2,2,2,50)
+![Logo](https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F56f304cc4d088ecd01de4215%2F1458858255270-3HZ0BZ14YVSQ9MZBS6U4%2FMONTY%2B-%2BNAME%2BLOGO%2B-%2B01.png&imgrefurl=http%3A%2F%2Fwww.remyboy1738.com%2Fbio&tbnid=oaeKztc8YcycmM&vet=12ahUKEwiYu--quK_1AhX5rIQIHfpzB7AQMygnegUIARCvAg..i&docid=Zy8DtS25qePhwM&w=1500&h=575&q=monty%20images&ved=2ahUKEwiYu--quK_1AhX5rIQIHfpzB7AQMygnegUIARCvAg)
 
 # Getting Started :running:
 <div style="text-align: justify">
